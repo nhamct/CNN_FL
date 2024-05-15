@@ -1,8 +1,8 @@
 # Fault Localization from Defects4J
 
-Fault localization is a technique to help identify buggy lines from source code based on failing test cases. We develop a hybrid technique based on different kinds of formulas that generate statement suspiciousness. This project is part of the CS5704: Software Engineering (Spring 2018).
+Fault localization is a technique to help identify buggy lines from source code based on failing test cases. 
 
-These are:
+Baseline models:
 
 * Tarantula
 * Ochiai
@@ -11,6 +11,9 @@ These are:
 * Dstar2
 * Muse
 * Jaccard
+Deep learning models:
+* CNN
+* ResNet
 
 ## Dataset
 
