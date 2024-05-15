@@ -11,6 +11,7 @@ Baseline models:
 * Dstar2
 * Muse
 * Jaccard
+  
 Deep learning models:
 * CNN
 * ResNet
